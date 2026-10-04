@@ -37,4 +37,4 @@ Instagram: [@RabPDF](https://www.instagram.com/RabPDF/)
 This Windows notice is separate from Android's scanner, trial and Google Play
 billing disclosures. It does not claim that external providers collect no data.
 
-Made with ❤️ in Darjeeling.
+Made with ❤️ in Darjeeling, India 🇮🇳.

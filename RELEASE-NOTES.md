@@ -9,6 +9,7 @@
 - Language selection for English, German, Italian, French, Spanish and
   Portuguese. Some detailed help/errors/status messages still use English.
 - Compact language control and neatly spaced red heart origin line.
+- Origin branding: Made with ❤️ in Darjeeling, India 🇮🇳.
 - Existing rabbit animation retained.
 
 Verification: desktop regression checks and both packaged self-tests passed.

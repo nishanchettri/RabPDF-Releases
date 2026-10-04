@@ -1,3 +1,3 @@
-9ea0848a67ca60c2c0a6dbf309dc18cfc08e8b8903260fc95bc27a18d623251b  RabPDF-1.5.1-Notices-and-Instructions.zip
-9aad4e2432def1d4070b8faecf923d07cb6352d0b5c48ee8fa7d0a951b4290ce  RabPDF-Windows-1.5.1-FastStart.zip
-5f05961783a90a0071f2fcdddc16c2d86c56e4ac9be360d8bb9995a401edc93a  RabPDF-Windows-1.5.1.exe
+59a563481f74527a8d11348851bb0086565420acb812e6fe11046d1bb352247c  RabPDF-1.5.1-Notices-and-Instructions.zip
+bff3e29d360187eb509e8f67ef538812d0a9fac07ed2913f1c59f9173193e0fc  RabPDF-Windows-1.5.1-FastStart.zip
+45430946539b9a85cc8ca6946a876b450092b50e75da8d219af74bf9ba11105d  RabPDF-Windows-1.5.1.exe

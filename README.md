@@ -32,7 +32,7 @@ Contact: ciao@monkeywithbrain.in
 
 Instagram: [@RabPDF](https://www.instagram.com/RabPDF/)
 
-Made with ❤️ in Darjeeling.
+Made with ❤️ in Darjeeling, India 🇮🇳.
 
 ## Release information
 
