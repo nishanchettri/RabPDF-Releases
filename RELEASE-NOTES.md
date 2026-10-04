@@ -1,3 +1,12 @@
+# Windows 1.5.2 - 2026-10-04
+
+- Compact blue circular processing indicator beside the action button.
+- Actual page, file or AI-tile percentages where measurable; loading and final saving use an indeterminate animation.
+- Processing indicator is hidden while idle and after completion or failure.
+- Click the completed output filename to open it, or use Show in folder to reveal it.
+- Existing six-language controls, offline tools and Darjeeling branding retained.
+
+Verification: 26 desktop regression tests, both packaged executable self-tests and a background PDF merge UI test passed. Installed-MSIX workflows remain unverified. This is not Microsoft Store certification.
 # Windows 1.5.1 - 2026-10-04
 
 - File drops in PDF input lists with single-file/batch validation.
