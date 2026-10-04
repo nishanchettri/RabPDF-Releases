@@ -51,3 +51,12 @@ drag gestures and installed-MSIX workflows still need further testing.
 Public binary downloads do not prevent reverse engineering. The existing MIT
 license is retained; it grants copying and modification permissions. This is
 a downloads-only repository, not a declaration of proprietary licensing.
+
+## Android and Microsoft Store
+
+- [Android 0.5.7 APK](https://github.com/nishanchettri/RabPDF-Releases/releases/tag/android-v0.5.7): package app.rabpdf.android, version code 12. Direct installation does not guarantee Google Play purchases/restoration or Play-protected build availability.
+- [Join the Android closed test](https://play.google.com/apps/testing/app.rabpdf.android), after joining https://groups.google.com/g/rabpdf/about with the same Google account.
+- [Microsoft Store listing](https://apps.microsoft.com/detail/9NR013R01KW7): availability depends on Store publication.
+- The Windows 1.5.2 release also includes the unsigned MSIX prepared for Microsoft Store upload. It is not a normal sideload installer and does not establish certification or publication.
+
+Android documents process locally, but Google scanner services may collect diagnostics, usage information and identifiers. Purchases use Google Play. Android privacy policy: https://monkeywithbrain.in/RabPDF/privacy.html
