@@ -4,12 +4,12 @@ Download only from this repository's Releases page.
 
 ## Portable EXE
 
-Download RabPDF-Windows-1.5.4.exe and double-click it. There is no installation
+Download RabPDF-Windows-1.5.5.exe and double-click it. There is no installation
 wizard and no need to install Python or supporting packages.
 
 ## FastStart ZIP
 
-Download RabPDF-Windows-1.5.4-FastStart.zip. Right-click and select Extract All.
+Download RabPDF-Windows-1.5.5-FastStart.zip. Right-click and select Extract All.
 Open the extracted folder and run RabPDF.exe. Keep _internal alongside the EXE.
 Do not run directly inside the ZIP or copy only the EXE out of this edition.
 
@@ -26,7 +26,7 @@ Checksums verify bytes; they do not authenticate the publisher or prove safety.
 In PowerShell, compare the hash against SHA256SUMS.txt:
 
 ```powershell
-Get-FileHash .\RabPDF-Windows-1.5.4.exe -Algorithm SHA256
+Get-FileHash .\RabPDF-Windows-1.5.5.exe -Algorithm SHA256
 ```
 
 Test with disposable copies before processing important documents. Compression
