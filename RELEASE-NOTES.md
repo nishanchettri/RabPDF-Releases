@@ -1,3 +1,18 @@
+# RabPDF Windows 1.5.3
+
+Fixes PDF compression failures caused by decoding safety limits. Content that
+cannot be safely decoded is preserved without that optimisation; the completion
+message reports skipped optimisation steps. Duplicate-object optimisation runs
+on an independent copy to avoid partially modifying the fallback document.
+
+The decompression safety limits remain enabled. Compression can be limited or
+produce a larger file when the source is already optimised.
+
+This addresses a reproduced class of failure reported during Microsoft Store
+certification. Microsoft's exact test PDF was not provided, and certification
+approval is not guaranteed. Android is unchanged.
+
+
 # Windows 1.5.2 - 2026-10-04
 
 - Compact blue circular processing indicator beside the action button.
