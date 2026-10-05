@@ -1,3 +1,15 @@
+# RabPDF Windows 1.5.4
+
+- Redesigned About panel with seven small, image-only regional stickers, including Darjeeling.
+- Clear local-processing privacy copy and clickable support/Instagram links.
+- Nepali added for main controls and tool labels; untranslated messages fall back to English.
+- Includes the 1.5.3 PDF compression fix: decoding-limit failures preserve original page content and skip the unsupported optimisation step.
+
+Windows is free. Documents process on your computer. Cloud folders may sync exports; external websites have their own policies.
+
+The EXE and FastStart ZIP are portable downloads. The unsigned MSIX is for Microsoft Partner Center upload, not direct installation. Certification is not guaranteed.
+
+
 # RabPDF Windows 1.5.3
 
 Fixes PDF compression failures caused by decoding safety limits. Content that

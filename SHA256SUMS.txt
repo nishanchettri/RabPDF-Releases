@@ -1,4 +1,7 @@
-c0c09eb221390f2f3085da3ec5e1f16199b586bee5414d303888ee56d45ee3a3  RabPDF-1.5.3-Notices-and-Instructions.zip
-a1a1cd526e0206f74bb12c708fc9280bc8a4f6d19f8da5f21c282bb39a691aab  RabPDF-1.5.3.0-x64.msix
-ed306d2f2cd20ec9a715302d19bac51d784a89ece976875ea741ac5df4899234  RabPDF-Windows-1.5.3-FastStart.zip
-793b8b82b1f5ff174e2de174dcc4013a54cae36b1b3b06c4a40c4dddde39aea4  RabPDF-Windows-1.5.3.exe
+cee0636608d853f1a660699634dccc82aae1fdf09fc578657ac06e232c791587  RabPDF-1.5.4.0-x64.msix
+15d42591e1cf76433b2a53f0084a514f2bd3d399c65341a0c6973b857d6f61d4  RabPDF-Windows-1.5.4-FastStart.zip
+b8d76ac3041d10b70e2e0d42198b559d94bcefb476b1180c540a63db949a40b7  RabPDF-Windows-1.5.4.exe
+8ff337ce62ad359175f5cd2392e4d9bf38bea13a4ff729f807fda65d56e648af  WINDOWS-RELEASE-1.5.4.md
+17da621dcdb1682fa46e75ae7f2e8662a0654a0b2513181456fa1cd13282fbc0  RabPDF-Android-0.5.8-code13.apk
+3eebf26680c0fe40e1aa50c137ccdaf93be0bc116272e19b450cb9e89316f3c4  RabPDF-About-Artwork-and-Screenshots.zip
+90b7356c8395cd1e8185278893f4fbf6e719ae3f481ad2a3c2590a74fcdf4cc6  RabPDF-Third-Party-Notices.zip

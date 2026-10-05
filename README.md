@@ -9,8 +9,8 @@ need to be installed. This repository hosts downloads, not application source.
 
 [Download the latest Windows release](https://github.com/nishanchettri/RabPDF-Releases/releases/latest)
 
-- **RabPDF-Windows-1.5.3.exe:** download and double-click to run.
-- **RabPDF-Windows-1.5.3-FastStart.zip:** extract first, then run RabPDF.exe.
+- **RabPDF-Windows-1.5.4.exe:** download and double-click to run.
+- **RabPDF-Windows-1.5.4-FastStart.zip:** extract first, then run RabPDF.exe.
   Keep the included _internal folder alongside the executable. This edition
   starts faster.
 - **SHA256SUMS.txt:** checksums for verifying the download bytes.
@@ -43,8 +43,8 @@ See [installation instructions](INSTALL.md), [release notes](RELEASE-NOTES.md),
 
 ![RabPDF rabbit icon](branding/rabpdf-icon-512.png)
 
-Main controls support English, German, Italian, French, Spanish and Portuguese.
-Some detailed help and error messages remain English. Windows 1.5.3 includes
+Main controls support English, German, Italian, French, Spanish, Portuguese and Nepali.
+Some detailed help and error messages remain English. Windows 1.5.4 includes
 PDF input-list file drops and offline QR creation/reading. Physical Explorer
 drag gestures and installed-MSIX workflows still need further testing.
 
@@ -54,9 +54,9 @@ a downloads-only repository, not a declaration of proprietary licensing.
 
 ## Android and Microsoft Store
 
-- [Android 0.5.7 APK](https://github.com/nishanchettri/RabPDF-Releases/releases/tag/android-v0.5.7): package app.rabpdf.android, version code 12. Direct installation does not guarantee Google Play purchases/restoration or Play-protected build availability.
+- [Android 0.5.8 APK](https://github.com/nishanchettri/RabPDF-Releases/releases/tag/android-v0.5.8): package app.rabpdf.android, version code 13. Direct installation does not guarantee Google Play purchases/restoration or Play-protected build availability.
 - [Join the Android closed test](https://play.google.com/apps/testing/app.rabpdf.android), after joining https://groups.google.com/g/rabpdf/about with the same Google account.
 - [Microsoft Store listing](https://apps.microsoft.com/detail/9NR013R01KW7): availability depends on Store publication.
-- The Windows 1.5.3 release also includes the unsigned MSIX prepared for Microsoft Store upload. It is not a normal sideload installer and does not establish certification or publication.
+- The Windows 1.5.4 release also includes the unsigned MSIX prepared for Microsoft Store upload. It is not a normal sideload installer and does not establish certification or publication.
 
 Android documents process locally, but Google scanner services may collect diagnostics, usage information and identifiers. Purchases use Google Play. Android privacy policy: https://monkeywithbrain.in/RabPDF/privacy.html
