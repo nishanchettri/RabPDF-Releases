@@ -1,11 +1,16 @@
 # RabPDF Windows privacy information
 
-Last updated: 2026-10-04. Applies to Windows portable version 1.5.1.
+Last updated: 2026-10-06. Applies to Windows version 1.5.6.
 
 PDF, image, QR decoding and bundled AI image-upscaling operations run locally.
 RabPDF does not operate a document-upload server, require a RabPDF account,
 display ads, or include developer-run analytics in this Windows build.
 Windows tools are free and do not request payment-card details.
+
+The app checks GitHub for available releases. GitHub receives normal connection
+metadata, such as the network IP address; PDFs and images are not included in
+these requests. Update installation is your choice. Sponsorship enquiries open
+your email client, and linked websites follow their own privacy policies.
 
 The app accesses files you select or drop and writes results to locations you
 choose. Processing can use temporary files and memory. Sensitive document or

@@ -1,0 +1,10 @@
+branding/
+fonts/
+*.ttf
+*.woff
+*.woff2
+*.svg
+*.jks
+*.keystore
+*.pfx
+*.pem
